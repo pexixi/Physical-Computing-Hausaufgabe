@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\Desktop\\Jahresthema\\Taxi Dankha Mobile First"
+		},
+		{
+			"name": "Test",
+			"path": "..\\Test"
+		},
+		{
+			"name": "Ledding",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Taxi Dankha Mobile First"
+	}
+}
