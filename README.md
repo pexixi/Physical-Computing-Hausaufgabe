@@ -28,6 +28,15 @@ Dieser LED-Streifen durchleuchtet das ganze Hue-Farbspektrum, die Geschwindkeit 
 * 1x LED-Streifen
 * 8x Kabel
 
+### Software
+
+##### Folgende Software wird im Projekt genutzt:
+
+* PlattformIO IDE
+* Arduino-Libary
+* FastLED-Libary
+
+
 <br>
 
 ## Step 2
