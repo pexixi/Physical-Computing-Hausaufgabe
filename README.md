@@ -35,8 +35,8 @@ Dieser LED-Streifen durchleuchtet das ganze Hue-Farbspektrum, die Geschwindkeit 
 ##### Folgende Software wird im Projekt genutzt:
 
 * PlattformIO IDE
-* Arduino-Libary
-* FastLED-Libary
+* Arduino-Library
+* FastLED-Library
 
 
 <br>
@@ -69,7 +69,7 @@ _Sidenotes_:
 ### Install Software
 
 * Schritt 1: Wenn Sie die IDE von PlattformIO benutzen, starten Sie ein neues Projekt und wählen Sie ihren Microcontroller aus
-* Schritt 2: Installieren Sie  die Libary FastLED von PlattformIO in ihr Projekt
+* Schritt 2: Installieren Sie  die Library FastLED von PlattformIO in ihr Projekt
 * Schritt 3: Kopieren Sie die Dateien aus dem Repo in den Projektordner
 * Schritt 4: Bearbeiten Sie die main.cpp-Datei nach Ihrem belieben
 * Schritt 5: [Builden Sie das Projekt](https://docs.platformio.org/en/latest/core/quickstart.html#process-project)
