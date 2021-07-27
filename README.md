@@ -12,7 +12,8 @@ Ziel dieses Projektes ist es, mit Hilfe des Mikrocontrollers _Arduino Uno_, eine
 Dieser LED-Streifen durchleuchtet das ganze Hue-Farbspektrum, die Geschwindkeit des Leuchtens kann durch den Drehregler des Potentiometers gesteuert werden.
 
 ![PROJEKT-SHOWCASE](https://i.imgur.com/faGwydJ.jpg)
-![PROJEKT-SCHALTUNG](https://i.imgur.com/CtsT45u.jpg)
+![PROJEKT-SCHALTUNG](https://i.imgur.com/CtsT45u.jpg)<br>
+##### Beispielvideo
 [![VIDEO](https://img.youtube.com/vi/t_hAx9NmS8o/0.jpg)](https://www.youtube.com/watch?v=t_hAx9NmS8o)
 
 <br>
